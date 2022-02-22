@@ -17,7 +17,7 @@ public class Car {
             int X = sc1.nextInt();
             if(X>2300)
             {
-                
+                System.out
             }
 
 
